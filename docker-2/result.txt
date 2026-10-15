@@ -1,0 +1,19 @@
+Гзгзян Никита, ИТ-9.24.3-ДН
+
+Адрес записи: http://localhost:8090/?p=5
+
+Старые ID контейнеров:
+5be813567e3ebffcde09ef28b617e2f69b4b8114157e117a4420dee1e547941c
+d95a83f43e0771606bdc2f3f2c9a70ce970b39d7b894ba40e8586c913e99d8ce
+
+Новые ID контейнеров:
+abf52ba5a458a049e8161e8ab2d5213ef9cdc9b86b49d079bbcb6dd65fb12023
+6fba0555fb5c9856302edeec95a19d365ba43494fb38d8286e6128a96a08cae4
+
+Запись сохранилась
+
+Команды из задания 7:
+docker compose stop db
+docker compose ps -a
+docker compose start db
+docker compose ps -a
